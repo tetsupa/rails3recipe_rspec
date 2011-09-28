@@ -1,0 +1,19 @@
+# for emacs:
+*~
+\#*
+.\#*
+
+# for vi:
+*.swp
+
+# for rails:
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+.sass-cache/
+*.bak
+
+config/settings/*.yml
+config/settings.yml
+config/database.yml
